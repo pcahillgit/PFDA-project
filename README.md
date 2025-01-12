@@ -1,6 +1,7 @@
 # Programming for Data Analytics Project
 
 ## About this Project
+In this project I analyse data from a Spotify audio dataset imported from Kaggle.
 
 
 
