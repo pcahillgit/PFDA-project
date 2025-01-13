@@ -1,4 +1,4 @@
-# Programming for Data Analytics Project
+# Programming for Data Analytics Project: Decades of Music
 
 ## About this Project
 In this project I analyse data from a Spotify audio dataset imported from Kaggle.
